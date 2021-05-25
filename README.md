@@ -1,2 +1,2 @@
 # Mini-Netflix
-This is a mini-netflix client that I have implemented during my Object-Oriented Programming course.
+This is an updated version of the Energetic-System implemented during my Object-Oriented Programming course.
